@@ -1,0 +1,1 @@
+# ikinci-donem-python-projem
